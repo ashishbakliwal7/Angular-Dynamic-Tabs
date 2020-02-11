@@ -22,7 +22,7 @@ $ npm start
 
 ## Questions?
 
-Feel free to reach out to me [on Twitter](https://twitter.com/juristr) or [open an issue](https://github.com/juristr/egghead-create-dynamic-tabs-component-angular/issues).
+Feel free to reach out to me [on Twitter](https://twitter.com/ashishbakliwal8)
 
 ## Setup & Run
 
